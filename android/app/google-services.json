@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "333305285175",
+    "firebase_url": "https://flutterfirebase-c0890-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebase-c0890",
+    "storage_bucket": "flutterfirebase-c0890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333305285175:android:8b1a54c0f788e9053b4db2",
+        "android_client_info": {
+          "package_name": "com.example.garden_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXraIJKR9n4haHiCguy_uJu2TP68hbuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
