@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Design structures
 ![image](https://github.com/jamesli72/FlutterBasic/assets/141984131/92a1bb9f-a9da-49b2-9a9a-0d94162c635b)
+\
 The design pattern MVVP is not included in this project, you can turn this project into some design pattern to practice like provider, riverpod, getXcontroller, or bloc pattern...
 
 ## Used purpose
