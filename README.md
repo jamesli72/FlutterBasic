@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Design UX/UI for the apps
 Here is my design print for the app, it is the first design of my work.
 ![Figma design](https://www.figma.com/file/vpSfqBSoJdmrj1mkMAkJSL/Schneider?type=design&node-id=0%3A1&mode=design&t=0EUNZOIvQMYrs7vC-1)
-
+https://www.figma.com/file/vpSfqBSoJdmrj1mkMAkJSL/Schneider?type=design&node-id=0%3A1&mode=design&t=0EUNZOIvQMYrs7vC-1
 ## Design structures
 ![image](https://github.com/jamesli72/FlutterBasic/assets/141984131/92a1bb9f-a9da-49b2-9a9a-0d94162c635b)
 \
